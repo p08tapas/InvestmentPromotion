@@ -1,0 +1,66 @@
+{
+  "source": "NSE index constituent CSVs (nsearchives.nseindia.com/content/indices/)",
+  "base_url": "https://nsearchives.nseindia.com/content/indices/",
+  "classifiers": [
+    {
+      "id": "nifty_500",
+      "label": "Nifty 500 (Broad)",
+      "csv": "ind_nifty500list.csv"
+    },
+    {
+      "id": "midcap_100",
+      "label": "Nifty Midcap 100",
+      "csv": "ind_niftymidcap100list.csv"
+    },
+    {
+      "id": "smallcap_100",
+      "label": "Nifty Smallcap 100",
+      "csv": "ind_niftysmallcap100list.csv"
+    },
+    {
+      "id": "pharma",
+      "label": "Nifty Pharma",
+      "csv": "ind_niftypharmalist.csv"
+    },
+    {
+      "id": "infra_epc",
+      "label": "Nifty Infrastructure (EPC / infra)",
+      "csv": "ind_niftyinfralist.csv"
+    },
+    {
+      "id": "metal",
+      "label": "Nifty Metal",
+      "csv": "ind_niftymetallist.csv"
+    },
+    {
+      "id": "it",
+      "label": "Nifty IT",
+      "csv": "ind_niftyitlist.csv"
+    },
+    {
+      "id": "bank",
+      "label": "Nifty Bank",
+      "csv": "ind_niftybanklist.csv"
+    },
+    {
+      "id": "auto",
+      "label": "Nifty Auto",
+      "csv": "ind_niftyautolist.csv"
+    },
+    {
+      "id": "fmcg",
+      "label": "Nifty FMCG",
+      "csv": "ind_niftyfmcglist.csv"
+    },
+    {
+      "id": "energy",
+      "label": "Nifty Energy",
+      "csv": "ind_niftyenergylist.csv"
+    },
+    {
+      "id": "realty",
+      "label": "Nifty Realty",
+      "csv": "ind_niftyrealtylist.csv"
+    }
+  ]
+}

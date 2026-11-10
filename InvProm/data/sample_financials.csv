@@ -1,0 +1,17 @@
+ticker,company_name,sector_id,fy,revenue_cr,capex_cr,cash_cr,investments_cr,total_debt_cr,market_cap_cr,capex_prev_yr_cr,revenue_prev_yr_cr,capacity_utilization_pct,order_book_cr,order_book_prev_yr_cr,pli_beneficiary,odisha_presence,odisha_news_hits_12m,expansion_announcements_12m,management_guidance_hits_12m
+TCS,Tata Consultancy Services Ltd,it_services,2024,240000,4000,72000,28000,2000,1400000,3800,230000,,,,,false,0,1,2
+INFY,Infosys Ltd,it_services,2024,150000,3500,45000,15000,1000,780000,3200,146000,,,,,false,0,2,3
+HCLTECH,HCL Technologies Ltd,it_services,2024,110000,2800,38000,12000,800,450000,2500,105000,,,,,false,0,1,1
+LTIM,LTIMindtree Ltd,it_services,2024,35000,900,15000,5000,500,150000,800,33000,,,,,false,0,0,1
+BAJFINANCE,Bajaj Finance Ltd,nbfc_financial,2024,65000,1200,12000,8000,180000,450000,900,54000,,,,,false,0,1,0
+ASIANPAINT,Asian Paints Ltd,fmcg_consumer,2024,38000,1800,2500,4000,500,280000,1500,36000,82,,,false,false,0,1,1
+NESTLEIND,Nestle India Ltd,fmcg_consumer,2024,18000,900,800,3500,200,220000,700,17000,88,,,false,false,0,0,0
+BRITANNIA,Britannia Industries Ltd,fmcg_consumer,2024,16500,850,600,2800,150,130000,600,15800,85,,,false,false,0,1,1
+DIVISLAB,Divi's Laboratories Ltd,pharma_healthcare,2024,9000,700,3200,1500,300,95000,500,8200,91,,,false,false,0,1,2
+SUNPHARMA,Sun Pharmaceutical Industries Ltd,pharma_healthcare,2024,48000,2500,4100,12000,2500,380000,2200,45000,78,,,false,false,0,2,1
+COALINDIA,Coal India Ltd,metals_downstream,2024,135000,8000,38000,22000,5000,280000,6500,128000,74,,,false,true,2,2,0
+LT,Larsen & Toubro Ltd,defense_infra,2024,220000,12000,18000,14000,95000,520000,10000,200000,,450000,380000,false,false,0,4,3
+BEL,Bharat Electronics Ltd,defense_infra,2024,20000,1200,8500,3000,500,120000,900,16500,,68000,52000,false,false,0,3,2
+HAL,Hindustan Aeronautics Ltd,defense_infra,2024,28000,2500,22000,8000,1200,280000,1800,24000,92,,,false,false,0,2,1
+RVNL,Rail Vikas Nigam Ltd,defense_infra,2024,22000,600,5500,2000,3000,65000,400,19000,,95000,72000,false,false,0,2,2
+NALCO,NALCO Ltd,metals_downstream,2024,12000,800,5000,1500,2000,32000,500,11000,88,,,false,true,5,1,1

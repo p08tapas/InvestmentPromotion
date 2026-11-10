@@ -1,0 +1,2 @@
+[console_scripts]
+invprom = invprom.cli:main

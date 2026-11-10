@@ -1,0 +1,41 @@
+{
+  "source_page": "https://www.nseindia.com/companies-listing/corporate-filings-actions",
+  "notes": "NSE filters corporate-announcements via the subject= parameter (maps to the desc column).",
+  "equity_subjects": [
+    {
+      "subject": "Outcome of Board Meeting",
+      "filing_type": "board_meeting_outcome",
+      "priority": 1
+    },
+    {
+      "subject": "Investor Presentation",
+      "filing_type": "investor_presentation",
+      "priority": 1
+    },
+    {
+      "subject": "Press Release",
+      "filing_type": "press_release",
+      "priority": 2
+    },
+    {
+      "subject": "General Updates",
+      "filing_type": "corporate_announcement",
+      "priority": 2
+    },
+    {
+      "subject": "Integrated Filing- Financial",
+      "filing_type": "financial_results",
+      "priority": 1
+    },
+    {
+      "subject": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "filing_type": "earnings_call_update",
+      "priority": 2
+    },
+    {
+      "subject": "Bagging/Receiving of orders/contracts",
+      "filing_type": "order_contract",
+      "priority": 2
+    }
+  ]
+}

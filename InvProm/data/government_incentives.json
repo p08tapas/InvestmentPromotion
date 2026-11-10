@@ -1,0 +1,36 @@
+{
+  "version": "india-pli-draft",
+  "description": "Sectors where central/state incentives (e.g. PLI) often trigger capex announcements",
+  "incentive_sectors": [
+    {
+      "id": "semiconductor",
+      "name": "Semiconductor manufacturing",
+      "keywords": ["semiconductor", "fab", "wafer", "display fab", "atmp"]
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics / mobile / IT hardware",
+      "keywords": ["pli", "electronics manufacturing", "mobile handset", "telecom equipment"]
+    },
+    {
+      "id": "green_hydrogen",
+      "name": "Green hydrogen",
+      "keywords": ["green hydrogen", "electrolyser", "electrolyzer", "hydrogen hub"]
+    },
+    {
+      "id": "ev_battery",
+      "name": "EV & advanced chemistry cell",
+      "keywords": ["advanced chemistry cell", "battery manufacturing", "ev", "giga factory"]
+    },
+    {
+      "id": "renewable_energy",
+      "name": "Renewable energy & solar",
+      "keywords": ["solar module", "renewable", "wind turbine", "green energy"]
+    },
+    {
+      "id": "data_centers",
+      "name": "Data centers",
+      "keywords": ["data centre", "data center", "hyperscale", "colocation"]
+    }
+  ]
+}

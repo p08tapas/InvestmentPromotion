@@ -1,0 +1,82 @@
+{
+  "version": "2024-odisha-ipicol-v2",
+  "sectors": [
+    {
+      "id": "metals_downstream",
+      "name": "Metals & downstream",
+      "track_capacity_utilization": true,
+      "track_order_book": false,
+      "keywords": ["steel", "aluminium", "aluminum", "ferro", "smelter", "rolling mill", "pellet", "sponge iron"]
+    },
+    {
+      "id": "chemicals_petrochem",
+      "name": "Chemicals & petrochemicals",
+      "track_capacity_utilization": true,
+      "track_order_book": false,
+      "keywords": ["chemical", "petrochemical", "polymer", "caustic", "ammonia", "urea", "paint", "speciality"]
+    },
+    {
+      "id": "renewables_green",
+      "name": "Renewables & green energy",
+      "track_capacity_utilization": false,
+      "track_order_book": true,
+      "keywords": ["solar", "wind", "renewable", "green hydrogen", "electrolyser", "battery", "power plant"]
+    },
+    {
+      "id": "defense_infra",
+      "name": "Defense, infrastructure & EPC",
+      "track_capacity_utilization": false,
+      "track_order_book": true,
+      "keywords": ["defense", "defence", "infrastructure", "epc", "rail", "metro", "highway"]
+    },
+    {
+      "id": "capital_goods",
+      "name": "Capital goods & engineering",
+      "track_capacity_utilization": true,
+      "track_order_book": true,
+      "keywords": ["capital goods", "engineering", "industrial", "heavy engineering"]
+    },
+    {
+      "id": "it_services",
+      "name": "IT services & software",
+      "track_capacity_utilization": false,
+      "track_order_book": false,
+      "keywords": ["software", "it services", "technology services", "digital"]
+    },
+    {
+      "id": "fmcg_consumer",
+      "name": "FMCG & consumer",
+      "track_capacity_utilization": true,
+      "track_order_book": false,
+      "keywords": ["fmcg", "consumer", "food", "beverage", "personal care", "paint"]
+    },
+    {
+      "id": "pharma_healthcare",
+      "name": "Pharma & healthcare",
+      "track_capacity_utilization": true,
+      "track_order_book": false,
+      "keywords": ["pharma", "pharmaceutical", "api", "formulation", "healthcare"]
+    },
+    {
+      "id": "nbfc_financial",
+      "name": "NBFC & financial services",
+      "track_capacity_utilization": false,
+      "track_order_book": false,
+      "keywords": ["finance", "nbfc", "lending", "housing finance"]
+    },
+    {
+      "id": "ports_logistics",
+      "name": "Ports & logistics",
+      "track_capacity_utilization": false,
+      "track_order_book": true,
+      "keywords": ["port", "logistics", "warehouse", "container", "freight", "cold chain"]
+    },
+    {
+      "id": "electronics_mfg",
+      "name": "Electronics manufacturing",
+      "track_capacity_utilization": true,
+      "track_order_book": false,
+      "keywords": ["electronics", "semiconductor", "pcb", "mobile", "component", "fab"]
+    }
+  ]
+}
